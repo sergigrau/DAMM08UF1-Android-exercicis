@@ -1,0 +1,13 @@
+<resources>
+
+    <string name="app_name">Exercicis</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_suma">Suma</string>
+    <string name="title_activity_suma_switch">SumaSwitchActivity</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_activity_operacions">OperacionsActivity</string>
+    <string name="title_activity_calculadora">Calculadora</string>
+    <string name="suma">suma</string>
+    <string name="resta">resta</string>
+</resources>

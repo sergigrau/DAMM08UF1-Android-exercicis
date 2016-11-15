@@ -1,0 +1,8 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+      <item android:id="@+id/suma"
+          android:title="@string/suma"
+          android:showAsAction="never" />
+ <item android:id="@+id/resta"
+          android:title="@string/resta"
+          android:showAsAction="never" />     
+</menu>

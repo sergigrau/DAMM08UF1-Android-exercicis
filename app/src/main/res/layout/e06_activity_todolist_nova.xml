@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TableLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:stretchColumns="1" >
+
+    <TableRow>
+
+        <TextView android:text="Nom activitat:" />
+
+        <EditText
+            android:id="@+id/nomActivitat"
+            android:inputType="text" />
+
+    </TableRow>
+
+    <TableRow>
+
+        <TextView android:text="data:" />
+
+        <EditText
+            android:id="@+id/dataActivitat"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:inputType="datetime" />
+
+    </TableRow>
+
+    <Button
+        android:id="@+id/botoCrearActivitat"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="crear activitat" />
+
+</TableLayout>
