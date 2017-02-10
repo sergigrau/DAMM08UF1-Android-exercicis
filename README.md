@@ -3,34 +3,15 @@
 <h1>Android Exercises </h1>
 <p>Programming exercises solutions to mobile devices class.</p>
 
-<p>
-1. Activitats
-</p>
-<p>
-2. Interfície d'usuari
-
-</p>
-<p>
-3. Controls d'entrada
-</p>
-<p>
-4. SQLite
-</p>
-<p>
-5. Aplicacions híbrides: WebView
-</p>
-<p>
-6. Fragments
-</p>
-<p>
-7. Proveïdors de contingut
-</p>
-</p>
-<p>
-8. Comunicacions amb sòcols i HTTP
-</p>
-<p>
-9. Comunicacions amb Bluetooth
+1. Activities<br>
+2. User Interface<br>
+3. Controls input<br>
+4. SQLite<br>
+5. Hybrid Applications: WebView<br>
+6. Fragments<br>
+7. Content Providers<br>
+8. Communication with HTTP and sockets<br>
+9. Communications with Bluetooth<br>
 
 </p>
 
