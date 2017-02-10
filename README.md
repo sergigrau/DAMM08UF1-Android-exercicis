@@ -4,25 +4,34 @@
 <p>programming exercises solutions to mobile devices class.</p>
 
 <p>
-1. MediaPlayback
+1. Activitats
 </p>
 <p>
-2. Management of audio playback
+2. Interfície d'usuari
+
 </p>
 <p>
-3. OpenGL
+3. ontrols d'entrada
 </p>
 <p>
-4. Themes and styles
+4. SQLite
 </p>
 <p>
-5. Animation
+5. Aplicacions híbrides: WebView
 </p>
 <p>
-6. Camera
+6. Fragments
 </p>
 <p>
-7. Access to media library
+7. Proveïdors de contingut
+</p>
+</p>
+<p>
+8. Comunicacions amb sòcols i HTTP
+</p>
+<p>
+9.Comunicacions amb Bluetooth
+
 </p>
 
 <sub>
