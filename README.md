@@ -1,7 +1,7 @@
 # DAMM08UF1-Android-exercicis
 ![alt tag](https://developer.android.com/images/brand/Android_Robot_100.png)
 <h1>Android Exercises </h1>
-<p>programming exercises solutions to mobile devices class.</p>
+<p>Programming exercises solutions to mobile devices class.</p>
 
 <p>
 1. Activitats
@@ -30,7 +30,7 @@
 8. Comunicacions amb sòcols i HTTP
 </p>
 <p>
-9.Comunicacions amb Bluetooth
+9. Comunicacions amb Bluetooth
 
 </p>
 
