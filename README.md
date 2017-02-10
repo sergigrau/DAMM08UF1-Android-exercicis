@@ -25,6 +25,6 @@
 7. Access to media library
 </p>
 
-<small>
+<sub>
 El robot de Android se reproduce o se modifica a partir del trabajo generado y compartido por Google, y se usa conforme a lo descrito en la licencia Creative Commons, Reconocimiento 3.0.
-</small>
+</sub>
