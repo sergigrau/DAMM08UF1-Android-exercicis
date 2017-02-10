@@ -11,7 +11,7 @@
 
 </p>
 <p>
-3. ontrols d'entrada
+3. Controls d'entrada
 </p>
 <p>
 4. SQLite
