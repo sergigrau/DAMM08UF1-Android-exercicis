@@ -4,7 +4,7 @@
 
 
 <h1>Android Exercises </h1>
-<p>Programming exercises solutions to mobile devices classes.</p>
+<p>Programming exercises solutions mobile devices.</p>
 
 1. Activities<br>
 2. User Interface<br>
