@@ -4,7 +4,7 @@
 
 
 <h1>Android Exercises </h1>
-<p>Programming exercises solutions to mobile devices class.</p>
+<p>Programming exercises solutions to mobile devices classes.</p>
 
 1. Activities<br>
 2. User Interface<br>
@@ -15,8 +15,6 @@
 7. Content Providers<br>
 8. Communication with HTTP and sockets<br>
 9. Communications with Bluetooth<br>
-
-</p>
 
 <sub>
 The Android robot is reproduced or modified from work created and shared by Google and used according to terms described in the Creative Commons 3.0 Attribution License.
